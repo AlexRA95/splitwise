@@ -29,3 +29,11 @@ body{
     color:white;
     border: 1px solid white;
 }
+
+.bien{
+    border: solid green 2px;
+}
+
+.mal{
+    border: solid red 2px;
+}
