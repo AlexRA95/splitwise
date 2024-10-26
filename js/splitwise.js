@@ -39,9 +39,9 @@ class Gasto {
     }
 }
 
-let Juan = new Usuario('Juan','/img/usuarios/avatar_a.png');
-let Paco = new Usuario('Paco','/img/usuarios/avatar_b.png');
-let Pepe = new Usuario('Pepe','/img/usuarios/avatar_c.png');
+let Juan = new Usuario('Juan', '../img/usuarios/avatar_a.png');
+let Paco = new Usuario('Paco','../img/usuarios/avatar_b.png');
+let Pepe = new Usuario('Pepe','../img/usuarios/avatar_c.png');
 let usuarios= [Juan,Paco,Pepe];
 
 //Crear parte de formulario
